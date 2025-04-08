@@ -59,10 +59,12 @@ Create a new short URL.
 ```json
 {
   "url": "https://example.com",
-  "expiry": "2025-12-31T23:59:59Z", // optional
-  "custom_id": "123" // optional
+  "expiry": "2025-12-31T23:59:59Z", 
+  "custom_id": "123"
 }
 ```
+expiry - optional
+custom_id - optional
 
 #### Response
 
